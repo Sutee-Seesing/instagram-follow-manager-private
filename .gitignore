@@ -1,0 +1,17 @@
+# Python cache and virtual env
+__pycache__/
+*.pyc
+.venv/
+
+# Personal/session data
+chrome_session_profile/
+instagram_data/
+*.json
+processed_users.json
+private_web_settings.json
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
